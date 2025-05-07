@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🏆 Renan Fagundes | Desenvolvedor Backend 🚀  
 
-<!--
-**renanfagundes17/renanfagundes17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu GitHub! Aqui compartilho meus projetos, estudos e contribuições.  
 
-Here are some ideas to get you started:
+📍 Estudando **Java, Spring Boot, SQL, Git/GitHub**  
+🎯 Foco em boas práticas de código e arquitetura de software  
+🤝 Contribuindo para projetos Open Source  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+---
+
+## 📌 Estatísticas  
+
+📊 **Resumo do GitHub**  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=renanfagundes17&show_icons=true&theme=tokyonight)  
+
+🔥 **Gráfico de Contribuições**  
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=renanfagundes17&theme=dark&hide_border=false)  
+
+🛠️ **Linguagens mais usadas**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanfagundes17&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌐 Contato  
+
+📧 Email: [renan1324@icloud.com](mailto:renan1324@icloud.com)  
+🔗 [LinkedIn](http://linkedin.com/in/renan-fagundes-012b0134a)
